@@ -1,0 +1,381 @@
+I finally got access to grock 3 so I
+wanted to show you exactly what it could
+do in this video they have some really
+useful options with grock 3 like deep
+search and a reasoning model that I
+wanted to show you it's currently
+available inside of x.com but you do
+need a premium subscription so you do
+have to pay for it in order to get
+access to it once you do pay for that
+subscription you'll see this little
+grock icon and here's the pricing right
+now so for the monthly fee of $8 you
+will get Gro and this is the one I have
+right now which removes ads and some
+other things that come with x.com and
+you could also use grock 3 at gro.com
+again you do need to sign up for the
+premium and use that to log into an
+account here and then you'll have access
+to grock 3 over here with deep search
+and reasoning model too now just to give
+you a quick background on grock 3 this
+is obviously the third version of grock
+which is the large language model from X
+aai Elon musk's AI company and the
+reason they were able to catch up so
+fast is they built this data center here
+in just 122 days they were able to get
+100,000 gpus to fully train grock 3
+they've recently expanded that to
+200,000 gpus currently this is the
+largest cluster of gpus to train large
+language models in the world and earlier
+chatbot Arena which is a website where
+you'll see two answers from two
+different models and choose the one
+which you prefer and not see which model
+it is before you vote grock 3 got the
+highest score here it beat Gemini it
+beat deeps R1 01 preview the latest 01
+it beat every single model here but
+we're going to go ahead and test that
+out for ourselves okay the very first
+thing I want to show you is it's writing
+style by default without doing anything
+to The Prompt so getting a 500w blog
+post about the release of grock 3 and by
+default this has access to the entire
+x.com or the old Twitter database so it
+will search that and it will search the
+web you don't even have to turn on any
+kind of search function that is already
+its default anytime you're doing any
+kind of research grock 3 is here x ai's
+latest sleap in AI awesomeness so it
+definitely has a more quirky and unique
+kind of tone compared to any other
+chatbot I've used big news tech fans as
+of February 19 2025 xai has officially
+unleash grock 3 into the wild that's the
+default you could always tweak that with
+how you give a prompt you could ask for
+a different tone or a different writing
+style or a different reading level but
+this is kind of what you're going to get
+out of default totally different sense
+of humor than chat GPT gemini or really
+any other model out there right now oh
+this is interesting it says word count
+500 on the dot okay let's find out if
+that's true word count is 513 wow that's
+actually shockingly close to what I
+asked for they usually don't get it
+anywhere near that kind of word count
+now this has also multimodal
+capabilities so not only could it see
+inside of images with his vision
+capabilities it could also generate
+images so let me attach an image here
+and then we'll go ahead and generate one
+too I'm going to actually attach that
+picture of that data center I showed you
+and I'm going to ask it what it is it
+has text it has an image here so the
+image appears to be an aerial view of
+the largest Data Center and super
+Computing facility label as
+Colossus 200k GPU that's correct okay so
+that did its job but one thing I've
+noticed lately is ever since I started
+using it I've been seeing this message
+sometimes we're seeing some heavy
+traffic so we've opted to an alternative
+model to get you answers faster let me
+just see what does this mean okay right
+here it says the system switches when it
+has a lot of traffic instead of using
+grock 3 uses a less resource intensive
+model so that might be another model
+they actually have that is not available
+here for picking called grock 3 mini
+which is going to be rolling out as part
+of their API soon too okay let's see how
+well it follows up with a previous
+conversation so just in this
+conversation I asked how much did it
+cost to build colaus so that image kind
+of told us how many gpus were used
+Colossus initially launched with 100,000
+Nvidia h100 gpus in July 2024 by
+February 25 expanded to 200,000 gpus see
+very up todate because because it not
+only uses web page search again without
+turning anything on two of my favorite
+things here is web search is always on
+if he needs it and I don't have to
+choose from a 100 different models on
+top like every other chatbot is trying
+to do now chat GPT is trying to move
+away from that when GPT 5 comes out is
+supposed to be the only one you get to
+choose and then it'll figure out which
+one to choose in the background to give
+you the best answer this still has deep
+search and thinking that I have to turn
+on but at least for the search part I
+don't have to pick anything and
+estimated cost these gpus are typically
+somewhere between like 25,000 to 60,000
+says 5 to 6 billion in GPU Hardware 3 to
+5 billion in Cooling and upgrades and
+things like that construction and it's
+saying by the time they expand out to 1
+million gpus it' be somewhere in the $30
+billion range and it could also create
+images so we'll go ahead and test that
+out just to show you a couple of
+different examples create a picture of a
+dog running on their moonlight
+okay that's not too bad let's click on a
+different one okay that's pretty good
+too and you could always edit these two
+and use a text prompt here to make
+subtle changes to this image too and
+then download it from here okay the next
+thing I want to show you is content
+creation specifically for x.com because
+what better way to post on here than use
+grock to figure out what actually works
+give me the top 10 posts about the
+release of grock 3 now this is going to
+search the web and other people's posts
+so you can see all the different post
+that is pulling from you could quickly
+see things this way and I could do a
+simple follow-up analyze those 10 tweets
+for me and give me a post that is
+educational because that's the type of
+content I post and here's the post that
+he wrote for me it's okay I probably
+needed to give it a little bit more
+instruction for his tone but by default
+analyzing what's there already a lot of
+them were in this kind of tone XIs
+Powerhouse AI is redefining speed and
+smarts in just two days right things
+like that I wouldn't about but the first
+part of that is actually pretty good and
+I could ask for 10 more like it but less
+Promotional and these are a lot more
+like things that I would want to post
+now next I want to show you deep search
+which pretty much every app now chat jpt
+has this Gemini Google Gemini has this
+I'm going to use this image here from
+the noron newsletter which says they
+just got acquired this is from today so
+I going to see what's going on here to
+see if he understands that part okay the
+main text here we got acquired suggest
+that neuron has been purchased or taken
+over by another company okay so you got
+the gist here now we're going to turn on
+deep search and let's see if we figure
+out if I give it some context about the
+neuron to figure out how much things
+like this sell for and I'm just going to
+tell it the neuron's been around a
+couple years in the AI space has 500,000
+subscribers let's see what it comes up
+with and deep research actually has a
+whole different kind of graphic here how
+long it's been thinking so far it's
+going to go through a bunch of different
+links right and it's going to find find
+out here is a good example morning Brew
+which was a newsletter I acquired for
+$75 million in 2020 so it's finding all
+this information here okay this took
+only 52 seconds went through 90
+different sources and I've used the
+Google one they take much longer 52
+seconds is actually really short
+typically they take six seven sometimes
+even over 10 minutes to do this and 83
+web pages right on top around $18
+million wow I definitely don't think
+that's true let's see how he came up
+with that $18 million because morning
+Bruce sold for 75 with 2.5 million
+subscribers The Hustle sold for 27 with
+1.5 million
+subscribers we estimate the neuron
+annual revenue at 3.5 million using
+Revenue per subscribers Benchmark of the
+morning Brew $8 per subscriber and the
+hustle
+$667 okay interesting really interesting
+but hey we'll never know this is not my
+company we have a large newsletter too
+it's not quite at half a million yet but
+interesting numbers okay now I'm going
+to see how it deals with any kind of
+data file so I have this Amazon CSV file
+this is just a data document about
+Amazon stock price I'm just going to ask
+it what this is first based on the data
+range the low initial price and the
+trading volume this data set resembles
+the historical stock price of Tesla that
+is not correct literally the file says
+Amazon on it
+so you got that wrong okay I told it
+it's wrong it's Amazon and I want to see
+if it could create a graph for us which
+we could do inside of chat jpt it's
+asking me if I want to generate it I'm
+going to say generate it okay so yeah it
+definitely can't create a graph it
+created this instead and chat GPT a
+whole lot more useful for kind of
+breaking down data into visual Graphics
+Claude is also really good at that so I
+use Claud for that often as well okay
+here I have a reasoning test and I
+tested this in my last video where I
+compared the reasoning model of deep
+seek I compared chat gpt's reasoning
+model and Gemini's reasoning model and
+now we have a grock reasoning model you
+have a rope that is exactly 50 ft and
+the building that's 75 ft you need to
+measure the height of the building using
+only the rope and your own body no other
+tools your 5T how can you do this
+described step by step R1 deeps car1 got
+a right Gemini got a right chaty PT did
+not get a right and I use gpt3 mini for
+that test okay so the thinking graphic
+looks kind of different and you kind of
+see it's reasoning here so sometimes
+chat GPT hides that or gives you a
+little summary you can't really see it
+R1 breaks it down in very clear detail
+of how he's thinking through it so I'll
+let this finish up here and it is
+showing you how many seconds he's
+thinking for as well okay it took a 118
+seconds and if I extend this out here
+you could actually go through the entire
+process process of how it was trying to
+think through this this was probably the
+longest any of the models that I've
+tested out had to think through a
+problem here and the answer that he gave
+us is probably the most wrong answer out
+of any of the models even the chat GPT
+model is telling me to put the Rope at
+the base of the building and somehow
+extend it out to 50 ft up in the air not
+how the physics of a rope works and then
+climb that rope and then use my body for
+the rest of the 25 ft that's missing
+where the Rope cannot measure it so okay
+I'm going to tell that it's completely
+wrong there is something called gravity
+where I can just throw the rope up there
+let's see if it kind of tries to fix
+itself okay now it's giving us a
+different way to do it this time we're
+going to go to the top of the building
+we're going to drop the Rope down from
+the top it's going to reach 50 feet so
+there's going to be 25 ft left from the
+bottom and then it says you might
+visually estimate this will use your own
+body as a measuring stick well that does
+doesn't quite work that's not going to
+be very accurate we're just kind of
+eyeballing it then now Google and deep
+seek gave me an answer with similar
+triangles that makes a whole lot more
+sense than kind of Standing On Top of
+yourself or dropping down from a 50ft
+rope from the top of the building oh
+right here it says you have one last
+remaining question for grock 3 with the
+think option turned on before the limit
+resets I literally maybe used it like
+six times here six questions with this
+turn on
+wow that is a very small limit I
+couldn't even really get past one
+reasoning question but yeah it did agree
+with me that that similar triangle
+technique will solve that problem so
+I'll just try a quick multiple choice
+question this one every model I tested
+out got a different answer okay so it
+took 87 seconds this time going through
+it here and let's see what we got on the
+very bottom oh it's still going here oh
+wow it did get it right the answer is B
+so only chance gpt3 mini got this right
+the first time I tested a deep seek R1
+and Gemini both could not get this right
+so let's say you're paying for chant GPT
+is it worth paying for grock in addition
+or instead and I think right now unless
+you're using this for its tone and you
+don't really want to train chat GPT to
+write the same way or if you really want
+to post on Twitter or on x.com and you
+want this to utilize that kind of
+analysis that it has well worth it if
+you want really up toate information
+this is probably the closest you're
+going to get to anything to real time
+because it has people's posts now those
+are just random people right so if you
+want more reputable sources it does also
+search the web so you could do your
+research that way but right now it's
+just missing way too many practical
+things for me for example it doesn't
+have system instructions I can't tell it
+to write in a very specific way chat GPT
+has that Claud has that and I can't add
+that here unless I put it inside of my
+prompts the way it analyzed documents I
+was not that impressed with it's deep
+search I think it's pretty good I got
+decent results a few times I tested it
+but I still think I'm getting better
+ones out of Gemini when it comes to deep
+research and obviously there are some
+big things that I use inside of chat GPT
+like those custom gpts in Claude there
+is something called projects that I use
+all the time in Google we have a huge
+context window so I could give it A500
+page book so I feel like there's still
+some things that this could improve on
+to catch up with those other things but
+on the large language model side the
+speed side of things the reasoning side
+is definitely come a super long way in a
+very short amount of time so pretty
+impressive I think it's kind of worth a
+try but I want to switch from something
+I'm already using I might want to add it
+if I see some of those use cases for
+your practical applications or for your
+social media posting if you haven't
+watched the other video where I compared
+the other reasoning models I'll post
+that here that one is very deep dive
+Compares them in detail and kind of
+scores them at the end too thanks for
+watching I'll see you next time

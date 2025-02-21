@@ -1,0 +1,1907 @@
+[
+  {
+    "text": "I finally got access to grock 3 so I",
+    "start": 0.16,
+    "duration": 4.159
+  },
+  {
+    "text": "wanted to show you exactly what it could",
+    "start": 2.52,
+    "duration": 3.72
+  },
+  {
+    "text": "do in this video they have some really",
+    "start": 4.319,
+    "duration": 4.521
+  },
+  {
+    "text": "useful options with grock 3 like deep",
+    "start": 6.24,
+    "duration": 4.88
+  },
+  {
+    "text": "search and a reasoning model that I",
+    "start": 8.84,
+    "duration": 4.2
+  },
+  {
+    "text": "wanted to show you it's currently",
+    "start": 11.12,
+    "duration": 4.88
+  },
+  {
+    "text": "available inside of x.com but you do",
+    "start": 13.04,
+    "duration": 5.28
+  },
+  {
+    "text": "need a premium subscription so you do",
+    "start": 16.0,
+    "duration": 4.0
+  },
+  {
+    "text": "have to pay for it in order to get",
+    "start": 18.32,
+    "duration": 3.64
+  },
+  {
+    "text": "access to it once you do pay for that",
+    "start": 20.0,
+    "duration": 3.24
+  },
+  {
+    "text": "subscription you'll see this little",
+    "start": 21.96,
+    "duration": 3.559
+  },
+  {
+    "text": "grock icon and here's the pricing right",
+    "start": 23.24,
+    "duration": 4.72
+  },
+  {
+    "text": "now so for the monthly fee of $8 you",
+    "start": 25.519,
+    "duration": 5.52
+  },
+  {
+    "text": "will get Gro and this is the one I have",
+    "start": 27.96,
+    "duration": 4.759
+  },
+  {
+    "text": "right now which removes ads and some",
+    "start": 31.039,
+    "duration": 4.401
+  },
+  {
+    "text": "other things that come with x.com and",
+    "start": 32.719,
+    "duration": 4.801
+  },
+  {
+    "text": "you could also use grock 3 at gro.com",
+    "start": 35.44,
+    "duration": 4.4
+  },
+  {
+    "text": "again you do need to sign up for the",
+    "start": 37.52,
+    "duration": 4.64
+  },
+  {
+    "text": "premium and use that to log into an",
+    "start": 39.84,
+    "duration": 4.16
+  },
+  {
+    "text": "account here and then you'll have access",
+    "start": 42.16,
+    "duration": 4.32
+  },
+  {
+    "text": "to grock 3 over here with deep search",
+    "start": 44.0,
+    "duration": 4.52
+  },
+  {
+    "text": "and reasoning model too now just to give",
+    "start": 46.48,
+    "duration": 4.28
+  },
+  {
+    "text": "you a quick background on grock 3 this",
+    "start": 48.52,
+    "duration": 4.44
+  },
+  {
+    "text": "is obviously the third version of grock",
+    "start": 50.76,
+    "duration": 4.279
+  },
+  {
+    "text": "which is the large language model from X",
+    "start": 52.96,
+    "duration": 5.52
+  },
+  {
+    "text": "aai Elon musk's AI company and the",
+    "start": 55.039,
+    "duration": 5.32
+  },
+  {
+    "text": "reason they were able to catch up so",
+    "start": 58.48,
+    "duration": 4.559
+  },
+  {
+    "text": "fast is they built this data center here",
+    "start": 60.359,
+    "duration": 6.601
+  },
+  {
+    "text": "in just 122 days they were able to get",
+    "start": 63.039,
+    "duration": 7.881
+  },
+  {
+    "text": "100,000 gpus to fully train grock 3",
+    "start": 66.96,
+    "duration": 6.56
+  },
+  {
+    "text": "they've recently expanded that to",
+    "start": 70.92,
+    "duration": 5.559
+  },
+  {
+    "text": "200,000 gpus currently this is the",
+    "start": 73.52,
+    "duration": 5.72
+  },
+  {
+    "text": "largest cluster of gpus to train large",
+    "start": 76.479,
+    "duration": 5.28
+  },
+  {
+    "text": "language models in the world and earlier",
+    "start": 79.24,
+    "duration": 4.6
+  },
+  {
+    "text": "chatbot Arena which is a website where",
+    "start": 81.759,
+    "duration": 3.521
+  },
+  {
+    "text": "you'll see two answers from two",
+    "start": 83.84,
+    "duration": 3.319
+  },
+  {
+    "text": "different models and choose the one",
+    "start": 85.28,
+    "duration": 4.08
+  },
+  {
+    "text": "which you prefer and not see which model",
+    "start": 87.159,
+    "duration": 6.121
+  },
+  {
+    "text": "it is before you vote grock 3 got the",
+    "start": 89.36,
+    "duration": 5.799
+  },
+  {
+    "text": "highest score here it beat Gemini it",
+    "start": 93.28,
+    "duration": 5.56
+  },
+  {
+    "text": "beat deeps R1 01 preview the latest 01",
+    "start": 95.159,
+    "duration": 5.6
+  },
+  {
+    "text": "it beat every single model here but",
+    "start": 98.84,
+    "duration": 3.04
+  },
+  {
+    "text": "we're going to go ahead and test that",
+    "start": 100.759,
+    "duration": 3.161
+  },
+  {
+    "text": "out for ourselves okay the very first",
+    "start": 101.88,
+    "duration": 4.0
+  },
+  {
+    "text": "thing I want to show you is it's writing",
+    "start": 103.92,
+    "duration": 4.12
+  },
+  {
+    "text": "style by default without doing anything",
+    "start": 105.88,
+    "duration": 5.0
+  },
+  {
+    "text": "to The Prompt so getting a 500w blog",
+    "start": 108.04,
+    "duration": 5.64
+  },
+  {
+    "text": "post about the release of grock 3 and by",
+    "start": 110.88,
+    "duration": 5.68
+  },
+  {
+    "text": "default this has access to the entire",
+    "start": 113.68,
+    "duration": 5.56
+  },
+  {
+    "text": "x.com or the old Twitter database so it",
+    "start": 116.56,
+    "duration": 4.879
+  },
+  {
+    "text": "will search that and it will search the",
+    "start": 119.24,
+    "duration": 3.879
+  },
+  {
+    "text": "web you don't even have to turn on any",
+    "start": 121.439,
+    "duration": 4.04
+  },
+  {
+    "text": "kind of search function that is already",
+    "start": 123.119,
+    "duration": 4.04
+  },
+  {
+    "text": "its default anytime you're doing any",
+    "start": 125.479,
+    "duration": 4.321
+  },
+  {
+    "text": "kind of research grock 3 is here x ai's",
+    "start": 127.159,
+    "duration": 5.681
+  },
+  {
+    "text": "latest sleap in AI awesomeness so it",
+    "start": 129.8,
+    "duration": 5.76
+  },
+  {
+    "text": "definitely has a more quirky and unique",
+    "start": 132.84,
+    "duration": 4.16
+  },
+  {
+    "text": "kind of tone compared to any other",
+    "start": 135.56,
+    "duration": 4.12
+  },
+  {
+    "text": "chatbot I've used big news tech fans as",
+    "start": 137.0,
+    "duration": 6.56
+  },
+  {
+    "text": "of February 19 2025 xai has officially",
+    "start": 139.68,
+    "duration": 6.68
+  },
+  {
+    "text": "unleash grock 3 into the wild that's the",
+    "start": 143.56,
+    "duration": 5.56
+  },
+  {
+    "text": "default you could always tweak that with",
+    "start": 146.36,
+    "duration": 4.959
+  },
+  {
+    "text": "how you give a prompt you could ask for",
+    "start": 149.12,
+    "duration": 4.199
+  },
+  {
+    "text": "a different tone or a different writing",
+    "start": 151.319,
+    "duration": 4.0
+  },
+  {
+    "text": "style or a different reading level but",
+    "start": 153.319,
+    "duration": 3.321
+  },
+  {
+    "text": "this is kind of what you're going to get",
+    "start": 155.319,
+    "duration": 3.321
+  },
+  {
+    "text": "out of default totally different sense",
+    "start": 156.64,
+    "duration": 5.8
+  },
+  {
+    "text": "of humor than chat GPT gemini or really",
+    "start": 158.64,
+    "duration": 5.84
+  },
+  {
+    "text": "any other model out there right now oh",
+    "start": 162.44,
+    "duration": 4.0
+  },
+  {
+    "text": "this is interesting it says word count",
+    "start": 164.48,
+    "duration": 4.6
+  },
+  {
+    "text": "500 on the dot okay let's find out if",
+    "start": 166.44,
+    "duration": 7.24
+  },
+  {
+    "text": "that's true word count is 513 wow that's",
+    "start": 169.08,
+    "duration": 7.4
+  },
+  {
+    "text": "actually shockingly close to what I",
+    "start": 173.68,
+    "duration": 4.68
+  },
+  {
+    "text": "asked for they usually don't get it",
+    "start": 176.48,
+    "duration": 4.32
+  },
+  {
+    "text": "anywhere near that kind of word count",
+    "start": 178.36,
+    "duration": 4.56
+  },
+  {
+    "text": "now this has also multimodal",
+    "start": 180.8,
+    "duration": 4.2
+  },
+  {
+    "text": "capabilities so not only could it see",
+    "start": 182.92,
+    "duration": 4.08
+  },
+  {
+    "text": "inside of images with his vision",
+    "start": 185.0,
+    "duration": 3.599
+  },
+  {
+    "text": "capabilities it could also generate",
+    "start": 187.0,
+    "duration": 3.92
+  },
+  {
+    "text": "images so let me attach an image here",
+    "start": 188.599,
+    "duration": 3.761
+  },
+  {
+    "text": "and then we'll go ahead and generate one",
+    "start": 190.92,
+    "duration": 3.239
+  },
+  {
+    "text": "too I'm going to actually attach that",
+    "start": 192.36,
+    "duration": 3.72
+  },
+  {
+    "text": "picture of that data center I showed you",
+    "start": 194.159,
+    "duration": 3.401
+  },
+  {
+    "text": "and I'm going to ask it what it is it",
+    "start": 196.08,
+    "duration": 3.92
+  },
+  {
+    "text": "has text it has an image here so the",
+    "start": 197.56,
+    "duration": 4.84
+  },
+  {
+    "text": "image appears to be an aerial view of",
+    "start": 200.0,
+    "duration": 4.599
+  },
+  {
+    "text": "the largest Data Center and super",
+    "start": 202.4,
+    "duration": 4.839
+  },
+  {
+    "text": "Computing facility label as",
+    "start": 204.599,
+    "duration": 7.0
+  },
+  {
+    "text": "Colossus 200k GPU that's correct okay so",
+    "start": 207.239,
+    "duration": 6.0
+  },
+  {
+    "text": "that did its job but one thing I've",
+    "start": 211.599,
+    "duration": 4.36
+  },
+  {
+    "text": "noticed lately is ever since I started",
+    "start": 213.239,
+    "duration": 4.681
+  },
+  {
+    "text": "using it I've been seeing this message",
+    "start": 215.959,
+    "duration": 3.681
+  },
+  {
+    "text": "sometimes we're seeing some heavy",
+    "start": 217.92,
+    "duration": 4.56
+  },
+  {
+    "text": "traffic so we've opted to an alternative",
+    "start": 219.64,
+    "duration": 5.28
+  },
+  {
+    "text": "model to get you answers faster let me",
+    "start": 222.48,
+    "duration": 5.44
+  },
+  {
+    "text": "just see what does this mean okay right",
+    "start": 224.92,
+    "duration": 5.08
+  },
+  {
+    "text": "here it says the system switches when it",
+    "start": 227.92,
+    "duration": 4.239
+  },
+  {
+    "text": "has a lot of traffic instead of using",
+    "start": 230.0,
+    "duration": 6.36
+  },
+  {
+    "text": "grock 3 uses a less resource intensive",
+    "start": 232.159,
+    "duration": 6.761
+  },
+  {
+    "text": "model so that might be another model",
+    "start": 236.36,
+    "duration": 4.439
+  },
+  {
+    "text": "they actually have that is not available",
+    "start": 238.92,
+    "duration": 4.48
+  },
+  {
+    "text": "here for picking called grock 3 mini",
+    "start": 240.799,
+    "duration": 4.52
+  },
+  {
+    "text": "which is going to be rolling out as part",
+    "start": 243.4,
+    "duration": 4.559
+  },
+  {
+    "text": "of their API soon too okay let's see how",
+    "start": 245.319,
+    "duration": 4.961
+  },
+  {
+    "text": "well it follows up with a previous",
+    "start": 247.959,
+    "duration": 3.721
+  },
+  {
+    "text": "conversation so just in this",
+    "start": 250.28,
+    "duration": 3.64
+  },
+  {
+    "text": "conversation I asked how much did it",
+    "start": 251.68,
+    "duration": 4.279
+  },
+  {
+    "text": "cost to build colaus so that image kind",
+    "start": 253.92,
+    "duration": 4.039
+  },
+  {
+    "text": "of told us how many gpus were used",
+    "start": 255.959,
+    "duration": 4.52
+  },
+  {
+    "text": "Colossus initially launched with 100,000",
+    "start": 257.959,
+    "duration": 6.641
+  },
+  {
+    "text": "Nvidia h100 gpus in July 2024 by",
+    "start": 260.479,
+    "duration": 7.961
+  },
+  {
+    "text": "February 25 expanded to 200,000 gpus see",
+    "start": 264.6,
+    "duration": 5.72
+  },
+  {
+    "text": "very up todate because because it not",
+    "start": 268.44,
+    "duration": 4.72
+  },
+  {
+    "text": "only uses web page search again without",
+    "start": 270.32,
+    "duration": 5.48
+  },
+  {
+    "text": "turning anything on two of my favorite",
+    "start": 273.16,
+    "duration": 5.4
+  },
+  {
+    "text": "things here is web search is always on",
+    "start": 275.8,
+    "duration": 4.839
+  },
+  {
+    "text": "if he needs it and I don't have to",
+    "start": 278.56,
+    "duration": 3.88
+  },
+  {
+    "text": "choose from a 100 different models on",
+    "start": 280.639,
+    "duration": 3.84
+  },
+  {
+    "text": "top like every other chatbot is trying",
+    "start": 282.44,
+    "duration": 3.8
+  },
+  {
+    "text": "to do now chat GPT is trying to move",
+    "start": 284.479,
+    "duration": 4.16
+  },
+  {
+    "text": "away from that when GPT 5 comes out is",
+    "start": 286.24,
+    "duration": 3.92
+  },
+  {
+    "text": "supposed to be the only one you get to",
+    "start": 288.639,
+    "duration": 3.321
+  },
+  {
+    "text": "choose and then it'll figure out which",
+    "start": 290.16,
+    "duration": 3.36
+  },
+  {
+    "text": "one to choose in the background to give",
+    "start": 291.96,
+    "duration": 4.0
+  },
+  {
+    "text": "you the best answer this still has deep",
+    "start": 293.52,
+    "duration": 4.28
+  },
+  {
+    "text": "search and thinking that I have to turn",
+    "start": 295.96,
+    "duration": 3.799
+  },
+  {
+    "text": "on but at least for the search part I",
+    "start": 297.8,
+    "duration": 3.52
+  },
+  {
+    "text": "don't have to pick anything and",
+    "start": 299.759,
+    "duration": 4.16
+  },
+  {
+    "text": "estimated cost these gpus are typically",
+    "start": 301.32,
+    "duration": 6.08
+  },
+  {
+    "text": "somewhere between like 25,000 to 60,000",
+    "start": 303.919,
+    "duration": 6.84
+  },
+  {
+    "text": "says 5 to 6 billion in GPU Hardware 3 to",
+    "start": 307.4,
+    "duration": 6.28
+  },
+  {
+    "text": "5 billion in Cooling and upgrades and",
+    "start": 310.759,
+    "duration": 4.801
+  },
+  {
+    "text": "things like that construction and it's",
+    "start": 313.68,
+    "duration": 4.2
+  },
+  {
+    "text": "saying by the time they expand out to 1",
+    "start": 315.56,
+    "duration": 5.359
+  },
+  {
+    "text": "million gpus it' be somewhere in the $30",
+    "start": 317.88,
+    "duration": 5.72
+  },
+  {
+    "text": "billion range and it could also create",
+    "start": 320.919,
+    "duration": 4.321
+  },
+  {
+    "text": "images so we'll go ahead and test that",
+    "start": 323.6,
+    "duration": 2.8
+  },
+  {
+    "text": "out just to show you a couple of",
+    "start": 325.24,
+    "duration": 3.16
+  },
+  {
+    "text": "different examples create a picture of a",
+    "start": 326.4,
+    "duration": 3.88
+  },
+  {
+    "text": "dog running on their moonlight",
+    "start": 328.4,
+    "duration": 4.12
+  },
+  {
+    "text": "okay that's not too bad let's click on a",
+    "start": 330.28,
+    "duration": 4.24
+  },
+  {
+    "text": "different one okay that's pretty good",
+    "start": 332.52,
+    "duration": 4.239
+  },
+  {
+    "text": "too and you could always edit these two",
+    "start": 334.52,
+    "duration": 4.399
+  },
+  {
+    "text": "and use a text prompt here to make",
+    "start": 336.759,
+    "duration": 4.201
+  },
+  {
+    "text": "subtle changes to this image too and",
+    "start": 338.919,
+    "duration": 3.801
+  },
+  {
+    "text": "then download it from here okay the next",
+    "start": 340.96,
+    "duration": 3.0
+  },
+  {
+    "text": "thing I want to show you is content",
+    "start": 342.72,
+    "duration": 4.0
+  },
+  {
+    "text": "creation specifically for x.com because",
+    "start": 343.96,
+    "duration": 5.12
+  },
+  {
+    "text": "what better way to post on here than use",
+    "start": 346.72,
+    "duration": 4.72
+  },
+  {
+    "text": "grock to figure out what actually works",
+    "start": 349.08,
+    "duration": 4.119
+  },
+  {
+    "text": "give me the top 10 posts about the",
+    "start": 351.44,
+    "duration": 4.12
+  },
+  {
+    "text": "release of grock 3 now this is going to",
+    "start": 353.199,
+    "duration": 5.401
+  },
+  {
+    "text": "search the web and other people's posts",
+    "start": 355.56,
+    "duration": 4.44
+  },
+  {
+    "text": "so you can see all the different post",
+    "start": 358.6,
+    "duration": 3.56
+  },
+  {
+    "text": "that is pulling from you could quickly",
+    "start": 360.0,
+    "duration": 4.199
+  },
+  {
+    "text": "see things this way and I could do a",
+    "start": 362.16,
+    "duration": 4.08
+  },
+  {
+    "text": "simple follow-up analyze those 10 tweets",
+    "start": 364.199,
+    "duration": 4.361
+  },
+  {
+    "text": "for me and give me a post that is",
+    "start": 366.24,
+    "duration": 4.16
+  },
+  {
+    "text": "educational because that's the type of",
+    "start": 368.56,
+    "duration": 4.0
+  },
+  {
+    "text": "content I post and here's the post that",
+    "start": 370.4,
+    "duration": 4.199
+  },
+  {
+    "text": "he wrote for me it's okay I probably",
+    "start": 372.56,
+    "duration": 3.52
+  },
+  {
+    "text": "needed to give it a little bit more",
+    "start": 374.599,
+    "duration": 4.04
+  },
+  {
+    "text": "instruction for his tone but by default",
+    "start": 376.08,
+    "duration": 4.76
+  },
+  {
+    "text": "analyzing what's there already a lot of",
+    "start": 378.639,
+    "duration": 4.84
+  },
+  {
+    "text": "them were in this kind of tone XIs",
+    "start": 380.84,
+    "duration": 5.32
+  },
+  {
+    "text": "Powerhouse AI is redefining speed and",
+    "start": 383.479,
+    "duration": 5.12
+  },
+  {
+    "text": "smarts in just two days right things",
+    "start": 386.16,
+    "duration": 4.319
+  },
+  {
+    "text": "like that I wouldn't about but the first",
+    "start": 388.599,
+    "duration": 4.361
+  },
+  {
+    "text": "part of that is actually pretty good and",
+    "start": 390.479,
+    "duration": 4.241
+  },
+  {
+    "text": "I could ask for 10 more like it but less",
+    "start": 392.96,
+    "duration": 4.4
+  },
+  {
+    "text": "Promotional and these are a lot more",
+    "start": 394.72,
+    "duration": 4.84
+  },
+  {
+    "text": "like things that I would want to post",
+    "start": 397.36,
+    "duration": 4.08
+  },
+  {
+    "text": "now next I want to show you deep search",
+    "start": 399.56,
+    "duration": 4.079
+  },
+  {
+    "text": "which pretty much every app now chat jpt",
+    "start": 401.44,
+    "duration": 4.8
+  },
+  {
+    "text": "has this Gemini Google Gemini has this",
+    "start": 403.639,
+    "duration": 4.12
+  },
+  {
+    "text": "I'm going to use this image here from",
+    "start": 406.24,
+    "duration": 4.0
+  },
+  {
+    "text": "the noron newsletter which says they",
+    "start": 407.759,
+    "duration": 5.16
+  },
+  {
+    "text": "just got acquired this is from today so",
+    "start": 410.24,
+    "duration": 4.679
+  },
+  {
+    "text": "I going to see what's going on here to",
+    "start": 412.919,
+    "duration": 4.081
+  },
+  {
+    "text": "see if he understands that part okay the",
+    "start": 414.919,
+    "duration": 4.28
+  },
+  {
+    "text": "main text here we got acquired suggest",
+    "start": 417.0,
+    "duration": 4.12
+  },
+  {
+    "text": "that neuron has been purchased or taken",
+    "start": 419.199,
+    "duration": 4.201
+  },
+  {
+    "text": "over by another company okay so you got",
+    "start": 421.12,
+    "duration": 5.359
+  },
+  {
+    "text": "the gist here now we're going to turn on",
+    "start": 423.4,
+    "duration": 6.12
+  },
+  {
+    "text": "deep search and let's see if we figure",
+    "start": 426.479,
+    "duration": 4.961
+  },
+  {
+    "text": "out if I give it some context about the",
+    "start": 429.52,
+    "duration": 3.6
+  },
+  {
+    "text": "neuron to figure out how much things",
+    "start": 431.44,
+    "duration": 3.599
+  },
+  {
+    "text": "like this sell for and I'm just going to",
+    "start": 433.12,
+    "duration": 3.12
+  },
+  {
+    "text": "tell it the neuron's been around a",
+    "start": 435.039,
+    "duration": 3.56
+  },
+  {
+    "text": "couple years in the AI space has 500,000",
+    "start": 436.24,
+    "duration": 4.28
+  },
+  {
+    "text": "subscribers let's see what it comes up",
+    "start": 438.599,
+    "duration": 3.761
+  },
+  {
+    "text": "with and deep research actually has a",
+    "start": 440.52,
+    "duration": 3.76
+  },
+  {
+    "text": "whole different kind of graphic here how",
+    "start": 442.36,
+    "duration": 3.64
+  },
+  {
+    "text": "long it's been thinking so far it's",
+    "start": 444.28,
+    "duration": 3.359
+  },
+  {
+    "text": "going to go through a bunch of different",
+    "start": 446.0,
+    "duration": 3.68
+  },
+  {
+    "text": "links right and it's going to find find",
+    "start": 447.639,
+    "duration": 4.161
+  },
+  {
+    "text": "out here is a good example morning Brew",
+    "start": 449.68,
+    "duration": 3.4
+  },
+  {
+    "text": "which was a newsletter I acquired for",
+    "start": 451.8,
+    "duration": 4.16
+  },
+  {
+    "text": "$75 million in 2020 so it's finding all",
+    "start": 453.08,
+    "duration": 4.72
+  },
+  {
+    "text": "this information here okay this took",
+    "start": 455.96,
+    "duration": 4.32
+  },
+  {
+    "text": "only 52 seconds went through 90",
+    "start": 457.8,
+    "duration": 3.959
+  },
+  {
+    "text": "different sources and I've used the",
+    "start": 460.28,
+    "duration": 4.0
+  },
+  {
+    "text": "Google one they take much longer 52",
+    "start": 461.759,
+    "duration": 3.84
+  },
+  {
+    "text": "seconds is actually really short",
+    "start": 464.28,
+    "duration": 3.759
+  },
+  {
+    "text": "typically they take six seven sometimes",
+    "start": 465.599,
+    "duration": 6.081
+  },
+  {
+    "text": "even over 10 minutes to do this and 83",
+    "start": 468.039,
+    "duration": 7.44
+  },
+  {
+    "text": "web pages right on top around $18",
+    "start": 471.68,
+    "duration": 7.32
+  },
+  {
+    "text": "million wow I definitely don't think",
+    "start": 475.479,
+    "duration": 5.72
+  },
+  {
+    "text": "that's true let's see how he came up",
+    "start": 479.0,
+    "duration": 5.319
+  },
+  {
+    "text": "with that $18 million because morning",
+    "start": 481.199,
+    "duration": 5.72
+  },
+  {
+    "text": "Bruce sold for 75 with 2.5 million",
+    "start": 484.319,
+    "duration": 5.72
+  },
+  {
+    "text": "subscribers The Hustle sold for 27 with",
+    "start": 486.919,
+    "duration": 5.201
+  },
+  {
+    "text": "1.5 million",
+    "start": 490.039,
+    "duration": 4.16
+  },
+  {
+    "text": "subscribers we estimate the neuron",
+    "start": 492.12,
+    "duration": 5.24
+  },
+  {
+    "text": "annual revenue at 3.5 million using",
+    "start": 494.199,
+    "duration": 5.201
+  },
+  {
+    "text": "Revenue per subscribers Benchmark of the",
+    "start": 497.36,
+    "duration": 4.839
+  },
+  {
+    "text": "morning Brew $8 per subscriber and the",
+    "start": 499.4,
+    "duration": 4.84
+  },
+  {
+    "text": "hustle",
+    "start": 502.199,
+    "duration": 5.641
+  },
+  {
+    "text": "$667 okay interesting really interesting",
+    "start": 504.24,
+    "duration": 5.88
+  },
+  {
+    "text": "but hey we'll never know this is not my",
+    "start": 507.84,
+    "duration": 4.439
+  },
+  {
+    "text": "company we have a large newsletter too",
+    "start": 510.12,
+    "duration": 5.32
+  },
+  {
+    "text": "it's not quite at half a million yet but",
+    "start": 512.279,
+    "duration": 5.0
+  },
+  {
+    "text": "interesting numbers okay now I'm going",
+    "start": 515.44,
+    "duration": 3.8
+  },
+  {
+    "text": "to see how it deals with any kind of",
+    "start": 517.279,
+    "duration": 5.281
+  },
+  {
+    "text": "data file so I have this Amazon CSV file",
+    "start": 519.24,
+    "duration": 5.24
+  },
+  {
+    "text": "this is just a data document about",
+    "start": 522.56,
+    "duration": 4.399
+  },
+  {
+    "text": "Amazon stock price I'm just going to ask",
+    "start": 524.48,
+    "duration": 4.68
+  },
+  {
+    "text": "it what this is first based on the data",
+    "start": 526.959,
+    "duration": 4.721
+  },
+  {
+    "text": "range the low initial price and the",
+    "start": 529.16,
+    "duration": 4.84
+  },
+  {
+    "text": "trading volume this data set resembles",
+    "start": 531.68,
+    "duration": 4.719
+  },
+  {
+    "text": "the historical stock price of Tesla that",
+    "start": 534.0,
+    "duration": 4.64
+  },
+  {
+    "text": "is not correct literally the file says",
+    "start": 536.399,
+    "duration": 3.68
+  },
+  {
+    "text": "Amazon on it",
+    "start": 538.64,
+    "duration": 4.0
+  },
+  {
+    "text": "so you got that wrong okay I told it",
+    "start": 540.079,
+    "duration": 4.521
+  },
+  {
+    "text": "it's wrong it's Amazon and I want to see",
+    "start": 542.64,
+    "duration": 4.0
+  },
+  {
+    "text": "if it could create a graph for us which",
+    "start": 544.6,
+    "duration": 3.799
+  },
+  {
+    "text": "we could do inside of chat jpt it's",
+    "start": 546.64,
+    "duration": 3.36
+  },
+  {
+    "text": "asking me if I want to generate it I'm",
+    "start": 548.399,
+    "duration": 4.481
+  },
+  {
+    "text": "going to say generate it okay so yeah it",
+    "start": 550.0,
+    "duration": 4.32
+  },
+  {
+    "text": "definitely can't create a graph it",
+    "start": 552.88,
+    "duration": 3.84
+  },
+  {
+    "text": "created this instead and chat GPT a",
+    "start": 554.32,
+    "duration": 3.959
+  },
+  {
+    "text": "whole lot more useful for kind of",
+    "start": 556.72,
+    "duration": 4.799
+  },
+  {
+    "text": "breaking down data into visual Graphics",
+    "start": 558.279,
+    "duration": 5.56
+  },
+  {
+    "text": "Claude is also really good at that so I",
+    "start": 561.519,
+    "duration": 5.56
+  },
+  {
+    "text": "use Claud for that often as well okay",
+    "start": 563.839,
+    "duration": 5.0
+  },
+  {
+    "text": "here I have a reasoning test and I",
+    "start": 567.079,
+    "duration": 4.361
+  },
+  {
+    "text": "tested this in my last video where I",
+    "start": 568.839,
+    "duration": 4.281
+  },
+  {
+    "text": "compared the reasoning model of deep",
+    "start": 571.44,
+    "duration": 3.839
+  },
+  {
+    "text": "seek I compared chat gpt's reasoning",
+    "start": 573.12,
+    "duration": 4.36
+  },
+  {
+    "text": "model and Gemini's reasoning model and",
+    "start": 575.279,
+    "duration": 4.401
+  },
+  {
+    "text": "now we have a grock reasoning model you",
+    "start": 577.48,
+    "duration": 4.64
+  },
+  {
+    "text": "have a rope that is exactly 50 ft and",
+    "start": 579.68,
+    "duration": 4.32
+  },
+  {
+    "text": "the building that's 75 ft you need to",
+    "start": 582.12,
+    "duration": 3.48
+  },
+  {
+    "text": "measure the height of the building using",
+    "start": 584.0,
+    "duration": 3.8
+  },
+  {
+    "text": "only the rope and your own body no other",
+    "start": 585.6,
+    "duration": 4.679
+  },
+  {
+    "text": "tools your 5T how can you do this",
+    "start": 587.8,
+    "duration": 5.719
+  },
+  {
+    "text": "described step by step R1 deeps car1 got",
+    "start": 590.279,
+    "duration": 7.041
+  },
+  {
+    "text": "a right Gemini got a right chaty PT did",
+    "start": 593.519,
+    "duration": 7.521
+  },
+  {
+    "text": "not get a right and I use gpt3 mini for",
+    "start": 597.32,
+    "duration": 5.959
+  },
+  {
+    "text": "that test okay so the thinking graphic",
+    "start": 601.04,
+    "duration": 3.96
+  },
+  {
+    "text": "looks kind of different and you kind of",
+    "start": 603.279,
+    "duration": 5.56
+  },
+  {
+    "text": "see it's reasoning here so sometimes",
+    "start": 605.0,
+    "duration": 5.72
+  },
+  {
+    "text": "chat GPT hides that or gives you a",
+    "start": 608.839,
+    "duration": 3.481
+  },
+  {
+    "text": "little summary you can't really see it",
+    "start": 610.72,
+    "duration": 4.559
+  },
+  {
+    "text": "R1 breaks it down in very clear detail",
+    "start": 612.32,
+    "duration": 5.32
+  },
+  {
+    "text": "of how he's thinking through it so I'll",
+    "start": 615.279,
+    "duration": 3.881
+  },
+  {
+    "text": "let this finish up here and it is",
+    "start": 617.64,
+    "duration": 3.319
+  },
+  {
+    "text": "showing you how many seconds he's",
+    "start": 619.16,
+    "duration": 5.4
+  },
+  {
+    "text": "thinking for as well okay it took a 118",
+    "start": 620.959,
+    "duration": 5.961
+  },
+  {
+    "text": "seconds and if I extend this out here",
+    "start": 624.56,
+    "duration": 4.519
+  },
+  {
+    "text": "you could actually go through the entire",
+    "start": 626.92,
+    "duration": 4.479
+  },
+  {
+    "text": "process process of how it was trying to",
+    "start": 629.079,
+    "duration": 4.281
+  },
+  {
+    "text": "think through this this was probably the",
+    "start": 631.399,
+    "duration": 4.041
+  },
+  {
+    "text": "longest any of the models that I've",
+    "start": 633.36,
+    "duration": 4.44
+  },
+  {
+    "text": "tested out had to think through a",
+    "start": 635.44,
+    "duration": 5.32
+  },
+  {
+    "text": "problem here and the answer that he gave",
+    "start": 637.8,
+    "duration": 6.52
+  },
+  {
+    "text": "us is probably the most wrong answer out",
+    "start": 640.76,
+    "duration": 5.759
+  },
+  {
+    "text": "of any of the models even the chat GPT",
+    "start": 644.32,
+    "duration": 5.92
+  },
+  {
+    "text": "model is telling me to put the Rope at",
+    "start": 646.519,
+    "duration": 6.12
+  },
+  {
+    "text": "the base of the building and somehow",
+    "start": 650.24,
+    "duration": 5.44
+  },
+  {
+    "text": "extend it out to 50 ft up in the air not",
+    "start": 652.639,
+    "duration": 5.2
+  },
+  {
+    "text": "how the physics of a rope works and then",
+    "start": 655.68,
+    "duration": 4.76
+  },
+  {
+    "text": "climb that rope and then use my body for",
+    "start": 657.839,
+    "duration": 5.041
+  },
+  {
+    "text": "the rest of the 25 ft that's missing",
+    "start": 660.44,
+    "duration": 5.44
+  },
+  {
+    "text": "where the Rope cannot measure it so okay",
+    "start": 662.88,
+    "duration": 4.16
+  },
+  {
+    "text": "I'm going to tell that it's completely",
+    "start": 665.88,
+    "duration": 2.959
+  },
+  {
+    "text": "wrong there is something called gravity",
+    "start": 667.04,
+    "duration": 3.799
+  },
+  {
+    "text": "where I can just throw the rope up there",
+    "start": 668.839,
+    "duration": 3.721
+  },
+  {
+    "text": "let's see if it kind of tries to fix",
+    "start": 670.839,
+    "duration": 3.521
+  },
+  {
+    "text": "itself okay now it's giving us a",
+    "start": 672.56,
+    "duration": 3.0
+  },
+  {
+    "text": "different way to do it this time we're",
+    "start": 674.36,
+    "duration": 2.44
+  },
+  {
+    "text": "going to go to the top of the building",
+    "start": 675.56,
+    "duration": 2.64
+  },
+  {
+    "text": "we're going to drop the Rope down from",
+    "start": 676.8,
+    "duration": 3.32
+  },
+  {
+    "text": "the top it's going to reach 50 feet so",
+    "start": 678.2,
+    "duration": 4.28
+  },
+  {
+    "text": "there's going to be 25 ft left from the",
+    "start": 680.12,
+    "duration": 4.0
+  },
+  {
+    "text": "bottom and then it says you might",
+    "start": 682.48,
+    "duration": 4.359
+  },
+  {
+    "text": "visually estimate this will use your own",
+    "start": 684.12,
+    "duration": 5.2
+  },
+  {
+    "text": "body as a measuring stick well that does",
+    "start": 686.839,
+    "duration": 3.921
+  },
+  {
+    "text": "doesn't quite work that's not going to",
+    "start": 689.32,
+    "duration": 3.68
+  },
+  {
+    "text": "be very accurate we're just kind of",
+    "start": 690.76,
+    "duration": 4.56
+  },
+  {
+    "text": "eyeballing it then now Google and deep",
+    "start": 693.0,
+    "duration": 4.0
+  },
+  {
+    "text": "seek gave me an answer with similar",
+    "start": 695.32,
+    "duration": 3.8
+  },
+  {
+    "text": "triangles that makes a whole lot more",
+    "start": 697.0,
+    "duration": 4.279
+  },
+  {
+    "text": "sense than kind of Standing On Top of",
+    "start": 699.12,
+    "duration": 4.839
+  },
+  {
+    "text": "yourself or dropping down from a 50ft",
+    "start": 701.279,
+    "duration": 4.521
+  },
+  {
+    "text": "rope from the top of the building oh",
+    "start": 703.959,
+    "duration": 4.401
+  },
+  {
+    "text": "right here it says you have one last",
+    "start": 705.8,
+    "duration": 5.2
+  },
+  {
+    "text": "remaining question for grock 3 with the",
+    "start": 708.36,
+    "duration": 5.599
+  },
+  {
+    "text": "think option turned on before the limit",
+    "start": 711.0,
+    "duration": 5.04
+  },
+  {
+    "text": "resets I literally maybe used it like",
+    "start": 713.959,
+    "duration": 4.801
+  },
+  {
+    "text": "six times here six questions with this",
+    "start": 716.04,
+    "duration": 4.479
+  },
+  {
+    "text": "turn on",
+    "start": 718.76,
+    "duration": 4.48
+  },
+  {
+    "text": "wow that is a very small limit I",
+    "start": 720.519,
+    "duration": 4.841
+  },
+  {
+    "text": "couldn't even really get past one",
+    "start": 723.24,
+    "duration": 4.68
+  },
+  {
+    "text": "reasoning question but yeah it did agree",
+    "start": 725.36,
+    "duration": 4.2
+  },
+  {
+    "text": "with me that that similar triangle",
+    "start": 727.92,
+    "duration": 4.08
+  },
+  {
+    "text": "technique will solve that problem so",
+    "start": 729.56,
+    "duration": 4.44
+  },
+  {
+    "text": "I'll just try a quick multiple choice",
+    "start": 732.0,
+    "duration": 4.079
+  },
+  {
+    "text": "question this one every model I tested",
+    "start": 734.0,
+    "duration": 4.6
+  },
+  {
+    "text": "out got a different answer okay so it",
+    "start": 736.079,
+    "duration": 4.961
+  },
+  {
+    "text": "took 87 seconds this time going through",
+    "start": 738.6,
+    "duration": 5.2
+  },
+  {
+    "text": "it here and let's see what we got on the",
+    "start": 741.04,
+    "duration": 5.12
+  },
+  {
+    "text": "very bottom oh it's still going here oh",
+    "start": 743.8,
+    "duration": 4.479
+  },
+  {
+    "text": "wow it did get it right the answer is B",
+    "start": 746.16,
+    "duration": 4.84
+  },
+  {
+    "text": "so only chance gpt3 mini got this right",
+    "start": 748.279,
+    "duration": 4.601
+  },
+  {
+    "text": "the first time I tested a deep seek R1",
+    "start": 751.0,
+    "duration": 4.399
+  },
+  {
+    "text": "and Gemini both could not get this right",
+    "start": 752.88,
+    "duration": 4.319
+  },
+  {
+    "text": "so let's say you're paying for chant GPT",
+    "start": 755.399,
+    "duration": 4.601
+  },
+  {
+    "text": "is it worth paying for grock in addition",
+    "start": 757.199,
+    "duration": 5.561
+  },
+  {
+    "text": "or instead and I think right now unless",
+    "start": 760.0,
+    "duration": 5.76
+  },
+  {
+    "text": "you're using this for its tone and you",
+    "start": 762.76,
+    "duration": 4.92
+  },
+  {
+    "text": "don't really want to train chat GPT to",
+    "start": 765.76,
+    "duration": 4.6
+  },
+  {
+    "text": "write the same way or if you really want",
+    "start": 767.68,
+    "duration": 6.12
+  },
+  {
+    "text": "to post on Twitter or on x.com and you",
+    "start": 770.36,
+    "duration": 5.36
+  },
+  {
+    "text": "want this to utilize that kind of",
+    "start": 773.8,
+    "duration": 4.56
+  },
+  {
+    "text": "analysis that it has well worth it if",
+    "start": 775.72,
+    "duration": 4.559
+  },
+  {
+    "text": "you want really up toate information",
+    "start": 778.36,
+    "duration": 3.12
+  },
+  {
+    "text": "this is probably the closest you're",
+    "start": 780.279,
+    "duration": 3.68
+  },
+  {
+    "text": "going to get to anything to real time",
+    "start": 781.48,
+    "duration": 5.2
+  },
+  {
+    "text": "because it has people's posts now those",
+    "start": 783.959,
+    "duration": 4.32
+  },
+  {
+    "text": "are just random people right so if you",
+    "start": 786.68,
+    "duration": 4.04
+  },
+  {
+    "text": "want more reputable sources it does also",
+    "start": 788.279,
+    "duration": 3.721
+  },
+  {
+    "text": "search the web so you could do your",
+    "start": 790.72,
+    "duration": 3.08
+  },
+  {
+    "text": "research that way but right now it's",
+    "start": 792.0,
+    "duration": 3.8
+  },
+  {
+    "text": "just missing way too many practical",
+    "start": 793.8,
+    "duration": 4.52
+  },
+  {
+    "text": "things for me for example it doesn't",
+    "start": 795.8,
+    "duration": 4.479
+  },
+  {
+    "text": "have system instructions I can't tell it",
+    "start": 798.32,
+    "duration": 5.319
+  },
+  {
+    "text": "to write in a very specific way chat GPT",
+    "start": 800.279,
+    "duration": 7.24
+  },
+  {
+    "text": "has that Claud has that and I can't add",
+    "start": 803.639,
+    "duration": 5.841
+  },
+  {
+    "text": "that here unless I put it inside of my",
+    "start": 807.519,
+    "duration": 4.32
+  },
+  {
+    "text": "prompts the way it analyzed documents I",
+    "start": 809.48,
+    "duration": 4.4
+  },
+  {
+    "text": "was not that impressed with it's deep",
+    "start": 811.839,
+    "duration": 4.321
+  },
+  {
+    "text": "search I think it's pretty good I got",
+    "start": 813.88,
+    "duration": 4.12
+  },
+  {
+    "text": "decent results a few times I tested it",
+    "start": 816.16,
+    "duration": 3.32
+  },
+  {
+    "text": "but I still think I'm getting better",
+    "start": 818.0,
+    "duration": 3.959
+  },
+  {
+    "text": "ones out of Gemini when it comes to deep",
+    "start": 819.48,
+    "duration": 4.2
+  },
+  {
+    "text": "research and obviously there are some",
+    "start": 821.959,
+    "duration": 3.88
+  },
+  {
+    "text": "big things that I use inside of chat GPT",
+    "start": 823.68,
+    "duration": 5.0
+  },
+  {
+    "text": "like those custom gpts in Claude there",
+    "start": 825.839,
+    "duration": 4.601
+  },
+  {
+    "text": "is something called projects that I use",
+    "start": 828.68,
+    "duration": 5.24
+  },
+  {
+    "text": "all the time in Google we have a huge",
+    "start": 830.44,
+    "duration": 5.8
+  },
+  {
+    "text": "context window so I could give it A500",
+    "start": 833.92,
+    "duration": 4.719
+  },
+  {
+    "text": "page book so I feel like there's still",
+    "start": 836.24,
+    "duration": 4.64
+  },
+  {
+    "text": "some things that this could improve on",
+    "start": 838.639,
+    "duration": 4.161
+  },
+  {
+    "text": "to catch up with those other things but",
+    "start": 840.88,
+    "duration": 3.72
+  },
+  {
+    "text": "on the large language model side the",
+    "start": 842.8,
+    "duration": 4.159
+  },
+  {
+    "text": "speed side of things the reasoning side",
+    "start": 844.6,
+    "duration": 6.84
+  },
+  {
+    "text": "is definitely come a super long way in a",
+    "start": 846.959,
+    "duration": 6.601
+  },
+  {
+    "text": "very short amount of time so pretty",
+    "start": 851.44,
+    "duration": 3.88
+  },
+  {
+    "text": "impressive I think it's kind of worth a",
+    "start": 853.56,
+    "duration": 4.04
+  },
+  {
+    "text": "try but I want to switch from something",
+    "start": 855.32,
+    "duration": 5.0
+  },
+  {
+    "text": "I'm already using I might want to add it",
+    "start": 857.6,
+    "duration": 5.239
+  },
+  {
+    "text": "if I see some of those use cases for",
+    "start": 860.32,
+    "duration": 5.319
+  },
+  {
+    "text": "your practical applications or for your",
+    "start": 862.839,
+    "duration": 4.481
+  },
+  {
+    "text": "social media posting if you haven't",
+    "start": 865.639,
+    "duration": 3.161
+  },
+  {
+    "text": "watched the other video where I compared",
+    "start": 867.32,
+    "duration": 3.28
+  },
+  {
+    "text": "the other reasoning models I'll post",
+    "start": 868.8,
+    "duration": 3.88
+  },
+  {
+    "text": "that here that one is very deep dive",
+    "start": 870.6,
+    "duration": 4.159
+  },
+  {
+    "text": "Compares them in detail and kind of",
+    "start": 872.68,
+    "duration": 4.279
+  },
+  {
+    "text": "scores them at the end too thanks for",
+    "start": 874.759,
+    "duration": 5.561
+  },
+  {
+    "text": "watching I'll see you next time",
+    "start": 876.959,
+    "duration": 3.361
+  }
+]

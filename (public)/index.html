@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>YouTube Transcriber</title>
+    <script src="/__/firebase/10.8.0/firebase-app-compat.js"></script>
+    <script src="/__/firebase/10.8.0/firebase-functions-compat.js"></script>
+    <script src="/__/firebase/init.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #ff0000;
+            text-align: center;
+        }
+        .input-group {
+            margin: 20px 0;
+        }
+        input[type="text"] {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+        button {
+            background-color: #ff0000;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            width: 100%;
+        }
+        button:disabled {
+            background-color: #cccccc;
+        }
+        #result {
+            margin-top: 20px;
+            white-space: pre-wrap;
+            background-color: #f8f9fa;
+            padding: 15px;
+            border-radius: 4px;
+            display: none;
+        }
+        #error {
+            color: red;
+            margin: 10px 0;
+            display: none;
+        }
+        .example {
+            background-color: #f8f9fa;
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 4px;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>YouTube Transcriber</h1>
+        
+        <div class="example">
+            Example URLs:
+            <br>• https://www.youtube.com/watch?v=VIDEO_ID
+            <br>• https://youtu.be/VIDEO_ID
+        </div>
+
+        <div class="input-group">
+            <input type="text" id="url" placeholder="Paste YouTube URL here..." />
+            <button onclick="getTranscript()" id="transcribeButton">Get Transcript</button>
+        </div>
+        
+        <div id="error"></div>
+        <div id="result"></div>
+    </div>
+
+    <script>
+        async function getTranscript() {
+            const url = document.getElementById('url').value.trim();
+            const resultDiv = document.getElementById('result');
+            const errorDiv = document.getElementById('error');
+            const button = document.getElementById('transcribeButton');
+            
+            // Reset display
+            resultDiv.style.display = 'none';
+            errorDiv.style.display = 'none';
+            
+            // Basic validation
+            if (!url) {
+                errorDiv.textContent = 'Please enter a YouTube URL';
+                errorDiv.style.display = 'block';
+                return;
+            }
+
+            // Disable button and show loading state
+            button.disabled = true;
+            button.textContent = 'Getting transcript...';
+            
+            try {
+                const functions = firebase.functions();
+                const getTranscriptFunction = functions.httpsCallable('api');
+                
+                const result = await getTranscriptFunction({ url: url });
+                
+                if (result.data.transcript) {
+                    resultDiv.textContent = result.data.transcript;
+                    resultDiv.style.display = 'block';
+                }
+            } catch (error) {
+                errorDiv.textContent = error.message || 'Failed to get transcript. Make sure the video has captions available.';
+                errorDiv.style.display = 'block';
+            } finally {
+                button.disabled = false;
+                button.textContent = 'Get Transcript';
+            }
+        }
+    </script>
+</body>
+</html>
