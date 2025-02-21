@@ -38,9 +38,26 @@ class handler(BaseHTTPRequestHandler):
         self.wfile.write(json.dumps(response).encode())
 
     def do_POST(self):
-        content_length = int(self.headers['Content-Length'])
-        post_data = self.rfile.read(content_length)
-        data = json.loads(post_data)
+        content_length = int(self.headers.get('Content-Length', 0))
+        if content_length > 0:
+            post_data = self.rfile.read(content_length)
+            try:
+                data = json.loads(post_data)
+            except json.JSONDecodeError:
+                self.send_response(400)
+                self.send_header('Content-type', 'application/json')
+                self.send_header('Access-Control-Allow-Origin', '*')
+                self.end_headers()
+                
+                response = {
+                    'success': False,
+                    'error': 'Invalid JSON payload'
+                }
+                
+                self.wfile.write(json.dumps(response).encode())
+                return
+        else:
+            data = {}
         
         try:
             url = data.get('url')
