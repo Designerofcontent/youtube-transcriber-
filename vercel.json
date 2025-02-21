@@ -8,6 +8,11 @@
     ],
     "routes": [
         {
+            "src": "/api",
+            "methods": ["POST", "OPTIONS"],
+            "dest": "api/index.py"
+        },
+        {
             "src": "/(.*)",
             "dest": "api/index.py"
         }
