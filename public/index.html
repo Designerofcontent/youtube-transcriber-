@@ -150,10 +150,8 @@
             button.textContent = 'Getting transcript...';
             
             try {
-                const response = await fetch('https://us-central1-transcriber-caac1.cloudfunctions.net/api', {
+                const response = await fetch('/api', {
                     method: 'POST',
-                    mode: 'cors',
-                    credentials: 'include',
                     headers: {
                         'Content-Type': 'application/json',
                         'Accept': 'application/json'
