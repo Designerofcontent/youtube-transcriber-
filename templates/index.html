@@ -96,12 +96,14 @@
             errorDiv.style.display = 'none';
             downloadsDiv.style.display = 'none';
             
-            fetch('/get_transcript', {
+            fetch('/api/transcript', {
                 method: 'POST',
                 headers: {
-                    'Content-Type': 'application/x-www-form-urlencoded',
+                    'Content-Type': 'application/json',
                 },
-                body: `url=${encodeURIComponent(url)}`
+                body: JSON.stringify({
+                    youtube_url: url
+                })
             })
             .then(response => response.json())
             .then(data => {
@@ -109,13 +111,11 @@
                     errorDiv.textContent = data.error;
                     errorDiv.style.display = 'block';
                 } else {
-                    resultDiv.textContent = data.transcript;
+                    resultDiv.textContent = data.text;
                     resultDiv.style.display = 'block';
                     
-                    // Update download links
-                    document.getElementById('jsonLink').href = data.json_path;
-                    document.getElementById('textLink').href = data.text_path;
-                    downloadsDiv.style.display = 'block';
+                    // Hide download links since we're not using them in the new API
+                    downloadsDiv.style.display = 'none';
                 }
             })
             .catch(error => {
